@@ -24,6 +24,8 @@ This repository will contain all materials used throughout the OS course 20/21
 ### 📖 Section 1 - Introduction to Java
 
 -------
+• [🎞 Section Presentation](https://drive.google.com/file/d/1bMWU72WcIjP1-f5P2D31DJ7wbkp_Otpy/view?usp=sharing)
+
 • [Java Syntax](https://www.w3schools.com/java/java_syntax.asp)
 
 • [Java Comments](https://www.w3schools.com/java/java_comments.asp)
