@@ -44,6 +44,8 @@ This repository will contain all materials used throughout the OS course 20/21
 
 • [Switch](https://www.w3schools.com/java/java_switch.asp)
 
+-------
+
 ## 👨🏽‍🏫 Course Instructor
 
 This course is taught by Mohaned Yossry Al Feqy.
