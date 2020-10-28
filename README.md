@@ -7,7 +7,7 @@ This repository will contain all materials used throughout the OS course 20/21
 ## 💡 Required Software to Get Started
 - in this [video](https://drive.google.com/file/d/1zDKzrZX2a3HYB4MDeTvZC7ozmcvGJu6p/view?usp=sharing
 ) how to install IntelliJ and JDK 1.8.
-- [IntelliJ IDE](https://www.jetbrains.com/idea/) 
+- [IntelliJ IDE](https://www.jetbrains.com/idea/)
     - You can have access to the ultimate edition with your university email address through this [link](https://www.jetbrains.com/community/education/#students)
     - Alternatives :
         - [Netbeans ](https://netbeans.org/)
@@ -43,3 +43,8 @@ This repository will contain all materials used throughout the OS course 20/21
 • [If ... Else](https://www.w3schools.com/java/java_conditions.asp)
 
 • [Switch](https://www.w3schools.com/java/java_switch.asp)
+
+## 👨🏽‍🏫 Course Instructor
+
+This course is taught by Mohaned Yossry Al Feqy.
+Teaching Assistant at Faculty of Computers and Information, Tanta University.
