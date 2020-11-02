@@ -49,7 +49,7 @@ This repository will contain all materials used throughout the OS course 20/21
 -------
 • [🎞 Section Presentation](https://drive.google.com/file/d/1D_Kw3wwqueCrFKgalFBcLgvomxcvn8rr/view?usp=sharing)
 
-• [‍💻 Section Project](https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Section2-Project)
+• [‍💻 Section Project](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Section2-Project)
 
 • [Increment and Decrement operators in Java](https://www.geeksforgeeks.org/interesting-facts-increment-decrement-operators-java/)
 
