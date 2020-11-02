@@ -45,6 +45,32 @@ This repository will contain all materials used throughout the OS course 20/21
 • [Switch](https://www.w3schools.com/java/java_switch.asp)
 
 
+### 📖 Section 2 - Methods, Loops and more.
+-------
+• [🎞 Section Presentation](https://drive.google.com/file/d/1D_Kw3wwqueCrFKgalFBcLgvomxcvn8rr/view?usp=sharing)
+
+• [‍💻 Section Project](https://www.geeksforgeeks.org/loops-in-java/)
+
+• [Increment and Decrement operators in Java](https://www.geeksforgeeks.org/interesting-facts-increment-decrement-operators-java/)
+
+• [Type Casting](https://www.w3schools.com/java/java_type_casting.asp)
+
+• [User Input (Scanner)](https://www.w3schools.com/java/java_user_input.asp)
+
+• [Methods](https://www.w3schools.com/java/java_methods.asp)
+
+• [Method Parameters](https://www.w3schools.com/java/java_methods_param.asp)
+
+• [Method Overloading](https://www.w3schools.com/java/java_methods_overloading.asp)
+
+• [Method Scope](https://www.w3schools.com/java/java_scope.asp)
+
+• [Naming Conventions](https://www.geeksforgeeks.org/java-naming-conventions/)
+
+• [Loops in Java](https://www.geeksforgeeks.org/loops-in-java/)
+
+
+
 ## 🍕 Additional Links
 
 <details>
