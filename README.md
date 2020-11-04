@@ -51,6 +51,8 @@ This repository will contain all materials used throughout the OS course 20/21
 
 • [‍💻 Section Project](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Section2-Project)
 
+• [‍✔️ Task 1 Starter Project](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Task1StarterProject)
+
 • [Increment and Decrement operators in Java](https://www.geeksforgeeks.org/interesting-facts-increment-decrement-operators-java/)
 
 • [Type Casting](https://www.w3schools.com/java/java_type_casting.asp)
