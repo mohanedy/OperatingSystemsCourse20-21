@@ -71,6 +71,9 @@ This repository will contain all materials used throughout the OS course 20/21
 
 • [Loops in Java](https://www.geeksforgeeks.org/loops-in-java/)
 
+### 📖 Section 3 - Task 1 Solution.
+-------
+• [‍✔️ Task 1 Solution](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Task1Solution)
 
 
 ## 🍕 Additional Links
