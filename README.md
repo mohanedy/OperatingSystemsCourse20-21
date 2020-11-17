@@ -75,6 +75,22 @@ This repository will contain all materials used throughout the OS course 20/21
 -------
 • [‍✔️ Task 1 Solution](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Task1Solution)
 
+### 📖 Section 4 - Java Arrays and more.
+-------
+• [🎞 Section Presentation](https://drive.google.com/file/d/1QZvhEdpbsgu9jVja_mpVyG-mfikamnS_/view?usp=sharing)
+
+• [Java Arrays - programiz](https://www.programiz.com/java-programming/arrays)
+
+• [Java Arrays - w3schools](https://www.w3schools.com/java/java_arrays.asp)
+
+• [Java "pass-by-reference" or "pass-by-value"?](https://stackabuse.com/does-java-pass-by-reference-or-pass-by-value/)
+
+• [Arrays in memory](https://books.trinket.io/thinkjava2/chapter7.html)
+
+• [2D-Arrays](https://www.programiz.com/java-programming/multidimensional-array)
+
+
+
 
 ## 🍕 Additional Links
 
