@@ -89,6 +89,28 @@ This repository will contain all materials used throughout the OS course 20/21
 
 • [2D-Arrays](https://www.programiz.com/java-programming/multidimensional-array)
 
+### 📖 Section 5 - Introduction to OOP, Classes and Objects.
+-------
+• [🎞 Section Presentation](https://drive.google.com/file/d/1U5_Xnv31veCmgiDudLDxIrAF2JSrurjr/view?usp=sharing)
+
+• [Java OOP - w3schools](https://www.w3schools.com/java/java_oop.asp)
+
+• [Java OOP - freecodecamp](https://www.freecodecamp.org/news/java-object-oriented-programming-system-principles-oops-concepts-for-beginners/)
+
+• [Java Classes and Objects - w3schools](https://www.w3schools.com/java/java_classes.asp)
+
+• [Java Classes and Objects - programiz](https://www.programiz.com/java-programming/class-objects)
+
+• [Java Classes and Objects - javatpoint](https://www.javatpoint.com/object-and-class-in-java)
+
+• [Class Attributes - w3schools](https://www.w3schools.com/java/java_class_attributes.asp)
+
+• [Class Methods - w3schools](https://www.w3schools.com/java/java_class_methods.asp)
+
+• [Java Constructors - javatpoint](https://www.javatpoint.com/java-constructor)
+
+
+
 
 
 
