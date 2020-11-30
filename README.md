@@ -132,6 +132,15 @@ This repository will contain all materials used throughout the OS course 20/21
 
 • [this keyword - programiz](https://www.programiz.com/java-programming/this-keyword)
 
+````
+Introductuon to Java Programming and data Structures - Eleventh Edition
+***********************************************************************
+9.8 Visibility Modifiers => 366
+9.9 Data Field Encapsulation => 368
+9.13 The Scope of Variables => 379
+9.14 The this Reference => 380
+````
+
 
 
 
