@@ -112,6 +112,25 @@ This repository will contain all materials used throughout the OS course 20/21
 • [Java Constructors - javatpoint](https://www.javatpoint.com/java-constructor)
 
 
+### 📖 Section 6 - Introduction to OOP, Encapsulation.
+-------
+• [🎞 Section Presentation](https://drive.google.com/file/d/1LMBPoZcNe1VTe_93ey-bQZlnCnQehuli/view?usp=sharing)
+
+• [‍💻 Section Project - BMI Project](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Section6-BMIProject)
+
+• [Constructor overloading - TutorialsPoint](https://www.tutorialspoint.com/Constructor-overloading-in-Java#:~:text=Yes!,with%20different%20no%20of%20parameters.)
+
+• [Java Encapsulation - TutorialsPoint](https://www.tutorialspoint.com/java/java_encapsulation.htm)
+
+• [Java Encapsulation - GeeksforGeeks](https://www.geeksforgeeks.org/encapsulation-in-java/)
+
+• [Java Encapsulation - javaTpoint](https://www.javatpoint.com/encapsulation)
+
+• [Access Modifiers in Java - GeeksforGeeks](https://www.geeksforgeeks.org/access-modifiers-java/)
+
+• [Access Modifiers in Java - javaTpoint](https://www.javatpoint.com/access-modifiers)
+
+• [this keyword - programiz](https://www.programiz.com/java-programming/this-keyword)
 
 
 
