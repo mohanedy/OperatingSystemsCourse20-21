@@ -159,6 +159,11 @@ Introduction to Java Programming and data Structures - Eleventh Edition
 
 • [Creating an Arraylist of Objects - stackoverflow](https://stackoverflow.com/questions/3982550/creating-an-arraylist-of-objects/3982597)
 
+
+• [Sockets & Networking - MIT](http://web.mit.edu/6.005/www/fa15/classes/21-sockets-networking/)
+
+• [IP Address - NetworkWorld](https://www.networkworld.com/article/3588315/what-is-an-ip-address-and-what-is-your-ip-address.html)
+
 • [Java Sockets - GeeksforGeeks](https://www.geeksforgeeks.org/socket-programming-in-java/)
 
 • [Java Sockets - Baeldung](https://www.baeldung.com/a-guide-to-java-sockets)
@@ -166,7 +171,6 @@ Introduction to Java Programming and data Structures - Eleventh Edition
 • [Java Sockets - edureka](https://www.edureka.co/blog/socket-programming-in-java/)
 
 • [Java Sockets - Medium (Requires VPN in Egypt)](https://medium.com/swlh/tcp-ip-socket-programming-in-java-fc11beb78219)
-
 
 
 ````
