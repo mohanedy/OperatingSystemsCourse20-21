@@ -134,18 +134,27 @@ This repository will contain all materials used throughout the OS course 20/21
 
 ````
 Introduction to Java Programming and data Structures - Eleventh Edition
-***********************************************************************
-9.8 Visibility Modifiers      => 366
-9.9 Data Field Encapsulation  => 368
-9.13 The Scope of Variables   => 379
-9.14 The this Reference       => 380
+=======================================================================
+9.8 Visibility Modifiers      👉🏽 366
+9.9 Data Field Encapsulation  👉🏽 368
+9.13 The Scope of Variables   👉🏽 379
+9.14 The this Reference       👉🏽 380
 ````
 
 ### 📖 Section 7 - Chapter 3 - Process and more.
 -------
 • [🎞 Section Presentation](https://drive.google.com/file/d/1HDRkejKpnmqy-8iRcicIaFBJpBBukzRx/view?usp=sharing)
 
+### 📖 Section 8 - ArrayList and Data Transmission through Sockets.
+-------
+• [🎞 Section Presentation](https://drive.google.com/file/d/1Wb6sgHlml35-XUk7iyv7K_n3ZRRkg685/view?usp=sharing)
+• [‍💻 Section Project](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Section6-BMIProject)
 
+````
+Introduction to Java Programming and data Structures - Eleventh Edition
+=======================================================================
+Networking  👉  Chapter 33
+````
 
 
 ## 🍕 Additional Links
