@@ -149,10 +149,31 @@ Introduction to Java Programming and data Structures - Eleventh Edition
 -------
 • [🎞 Section Presentation](https://drive.google.com/file/d/1Wb6sgHlml35-XUk7iyv7K_n3ZRRkg685/view?usp=sharing)
 
+• [‍💻 Section Project](https://downgit.github.io/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Section8-Project)
+
+• [Java ArrayList - programiz](https://www.programiz.com/java-programming/arraylist)
+
+• [Java ArrayList - w3schools](https://www.w3schools.com/java/java_arraylist.asp)
+
+• [Java ArrayList - GeeksforGeeks](https://www.geeksforgeeks.org/arraylist-in-java/)
+
+• [Creating an Arraylist of Objects - stackoverflow](https://stackoverflow.com/questions/3982550/creating-an-arraylist-of-objects/3982597)
+
+• [Java Sockets - GeeksforGeeks](https://www.geeksforgeeks.org/socket-programming-in-java/)
+
+• [Java Sockets - Baeldung](https://www.baeldung.com/a-guide-to-java-sockets)
+
+• [Java Sockets - edureka](https://www.edureka.co/blog/socket-programming-in-java/)
+
+• [Java Sockets - Medium (Requires VPN in Egypt)](https://medium.com/swlh/tcp-ip-socket-programming-in-java-fc11beb78219)
+
+
+
 ````
 Introduction to Java Programming and data Structures - Eleventh Edition
 =======================================================================
-Networking  👉  Chapter 33
+20.5 Chapter 20 Lists, Stacks, Queues, and Priority Queues 👉 804
+33.2 Networking                                            👉 Chapter 33
 ````
 
 
