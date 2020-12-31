@@ -148,7 +148,6 @@ Introduction to Java Programming and data Structures - Eleventh Edition
 ### 📖 Section 8 - ArrayList and Data Transmission through Sockets.
 -------
 • [🎞 Section Presentation](https://drive.google.com/file/d/1Wb6sgHlml35-XUk7iyv7K_n3ZRRkg685/view?usp=sharing)
-• [‍💻 Section Project](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Section6-BMIProject)
 
 ````
 Introduction to Java Programming and data Structures - Eleventh Edition
