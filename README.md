@@ -49,7 +49,7 @@ This repository will contain all materials used throughout the OS course 20/21
 -------
 • [🎞 Section Presentation](https://drive.google.com/file/d/1D_Kw3wwqueCrFKgalFBcLgvomxcvn8rr/view?usp=sharing)
 
-• [‍💻 Section Project](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Section2-Project)
+• [‍💻 Section Project](https://downgit.github.io/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Section2-Project)
 
 • [‍✔️ Task 1 Starter Project](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Task1StarterProject)
 
@@ -73,7 +73,7 @@ This repository will contain all materials used throughout the OS course 20/21
 
 ### 📖 Section 3 - Task 1 Solution.
 -------
-• [‍✔️ Task 1 Solution](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Task1Solution)
+• [‍✔️ Task 1 Solution](https://downgit.github.io/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Task1Solution)
 
 ### 📖 Section 4 - Java Arrays and more.
 -------
@@ -93,7 +93,7 @@ This repository will contain all materials used throughout the OS course 20/21
 -------
 • [🎞 Section Presentation](https://drive.google.com/file/d/1U5_Xnv31veCmgiDudLDxIrAF2JSrurjr/view?usp=sharing)
 
-• [‍💻 Section Project](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Section5)
+• [‍💻 Section Project](https://downgit.github.io/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Section5)
 
 • [Java OOP - w3schools](https://www.w3schools.com/java/java_oop.asp)
 
@@ -116,7 +116,7 @@ This repository will contain all materials used throughout the OS course 20/21
 -------
 • [🎞 Section Presentation](https://drive.google.com/file/d/1LMBPoZcNe1VTe_93ey-bQZlnCnQehuli/view?usp=sharing)
 
-• [‍💻 Section Project - BMI Project](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Section6-BMIProject)
+• [‍💻 Section Project - BMI Project](https://downgit.github.io/#/home?url=https://github.com/Mohanedy98/OperatingSystemsCourse20-21/tree/main/Section6-BMIProject)
 
 • [Constructor overloading - TutorialsPoint](https://www.tutorialspoint.com/Constructor-overloading-in-Java#:~:text=Yes!,with%20different%20no%20of%20parameters.)
 
@@ -158,7 +158,6 @@ Introduction to Java Programming and data Structures - Eleventh Edition
 • [Java ArrayList - GeeksforGeeks](https://www.geeksforgeeks.org/arraylist-in-java/)
 
 • [Creating an Arraylist of Objects - stackoverflow](https://stackoverflow.com/questions/3982550/creating-an-arraylist-of-objects/3982597)
-
 
 • [Sockets & Networking - MIT](http://web.mit.edu/6.005/www/fa15/classes/21-sockets-networking/)
 
